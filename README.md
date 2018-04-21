@@ -1,0 +1,12 @@
+# SipNPuff_Mouse
+
+Repository for code, STL files, and any guides for the Sip-n-puff mouse I show how to build at <insert 'ible link here>.
+
+This is a mouse input device intended to be used by Quadriplegics and other mobility impaired people. 
+It's a combination of a joystick and a sip-n-puff controller, and is controller by one's mouth. 
+
+Hardware:
+Arduino Pro Micro, normal joystick module, and an MPXV7002DP (-0.3 to 0.3 PSI) pressure sensor, enclosed in a 3D printed case.
+
+Software:
+A single sketch running on the Arduino, samples values from the joystick and pressure sensor and inputs mouse commands based off that.
