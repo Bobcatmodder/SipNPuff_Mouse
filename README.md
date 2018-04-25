@@ -1,7 +1,7 @@
 # SipNPuff_Mouse
 
 This is a mouse for Quadriplegics and other mobility impaired people, intended to be used with one's mouth. 
-This is the repository for code, STL files, and any guides for the mouse, which I show how to build at <insert 'ible link here>.
+This is the repository for code, STL files, and any guides for the mouse, which I show how to build at https://www.instructables.com/id/The-Sup-a-Mouse-for-Quadriplegics-Low-Cost-and-Ope/.
 
 This is a mouse input device intended to be used by Quadriplegics and other mobility impaired people. 
 It's a combination of a joystick and a sip-n-puff controller, and is controller by one's mouth. 
