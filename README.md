@@ -1,4 +1,4 @@
-# SipNPuff_Mouse
+# The 'Sup - a Mouse for Quadriplegics (SipNPuff_Mouse)
 
 This is a mouse for Quadriplegics and other mobility impaired people, intended to be used with one's mouth. 
 This is the repository for code, STL files, and any guides for the mouse, which I show how to build at https://www.instructables.com/id/The-Sup-a-Mouse-for-Quadriplegics-Low-Cost-and-Ope/.
@@ -11,3 +11,5 @@ Arduino Pro Micro, normal joystick module, and an MPXV7002DP (-0.3 to 0.3 PSI) p
 
 Software:
 A single sketch running on the Arduino, samples values from the joystick and pressure sensor and inputs mouse commands based off that.
+
+If you happen to be wanting one of these but do not wish to build it yourself, please contact me through Instructables. I will be more than happy to make you one at a reasonable price. 
